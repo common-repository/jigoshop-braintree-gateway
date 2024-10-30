@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: braintree.php:69
+#: braintree.php:81
+#@ stripe
+msgid "Stripe"
+msgstr ""
+
+#: braintree.php:83
+#@ stripe
+msgid "Enable Stripe"
+msgstr ""
+
+#: braintree.php:92
+#@ stripe
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: braintree.php:116
+#@ stripe
+msgid "This controls the name of store send with the payment."
+msgstr ""
+
+#: braintree.php:217
+#@ stripe
+msgid "Credit Card number"
+msgstr ""
+
+#: braintree.php:222
+#@ stripe
+msgid "Expiration date"
+msgstr ""
+
+#: braintree.php:224
+#@ stripe
+msgid "Month"
+msgstr ""
+
+#: braintree.php:233
+#@ stripe
+msgid "Year"
+msgstr ""
+
+#: braintree.php:238
+#@ stripe
+msgid "CVC"
+msgstr ""
+
+#: braintree.php:290
+#, php-format
+#@ stripe
+msgid "Order #%s from %s"
+msgstr ""
+
+#: braintree.php:304
+#, php-format
+#@ stripe
+msgid "Stripe payment completed (ID: %s)."
+msgstr ""
+
+#: braintree.php:311
+#@ stripe
+msgid "There was an error when processing your payment."
+msgstr ""
+
+#: braintree.php:98
+#@ stripe
+msgid "Description"
+msgstr ""
+
+#: braintree.php:98
+#@ stripe
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: braintree.php:68
+#@ stripe
+msgid "Pay with a credit card. You can enter your credit card information on the next page."
+msgstr ""
+
+#: braintree.php:242
+#@ stripe
+msgid "Submit payment"
+msgstr ""
+
+#: braintree.php:242
+#@ stripe
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: braintree.php:270
+#@ stripe
+msgid "Thank you for your order, enter your credit card information below to make the payment."
+msgstr ""
+
+#: braintree.php:286
+#@ stripe
+msgid "Please check your credit card details."
+msgstr ""
+
+#: braintree.php:81
+#@ stripe
+msgid "Stripe handles payments made with credit card directly to your bank account."
+msgstr ""
+
+#: braintree.php:72
+#@ Stripe
+msgid "Stripe shop"
+msgstr ""
+
+#: braintree.php:86
+#@ stripe
+msgid "Yes"
+msgstr ""
+
+#: braintree.php:87
+#@ stripe
+msgid "No"
+msgstr ""
+
+#: braintree.php:92
+#@ stripe
+msgid "Method Title"
+msgstr ""
+
+#: braintree.php:104
+#@ stripe
+msgid "Please enter your Stripe API key; this is needed in order to take payment!"
+msgstr ""
+
+#: braintree.php:104
+#@ stripe
+msgid "API key"
+msgstr ""
+
+#: braintree.php:110
+#@ stripe
+msgid "Please enter your Stripe Public key; this is needed in order to take payment!"
+msgstr ""
+
+#: braintree.php:110
+#@ stripe
+msgid "Public key"
+msgstr ""
+
+#: braintree.php:116
+#@ stripe
+msgid "Store name"
+msgstr ""
+
+#: braintree.php:282
+#@ stripe
+msgid "Invalid order id given."
+msgstr ""
+

@@ -1,0 +1,18 @@
+#stripe-card-expire-year {
+	float: right;
+  width: 48%;
+}
+
+#stripe-card-expire-month {
+	float: left;
+  width: 28%;
+}
+
+.stripe-payment-errors {
+	color: red;
+	font-weight: bold;
+}
+
+.stripe-card-number-row {
+	width: 61%;
+}
